@@ -1,5 +1,11 @@
 How to install MINISTRA 5.6.10 or MINISTRA 5.6.9
 
+Ministra Portal auto-install script on Ubuntu 20.04 LTS / 18.04 LTS
+This script work only on Clean Ubuntu 20.04 LTS / 18.04 LTS
+
+Ministra auto-install script
+
+
 The Script. The script will download and install Ministra 5.6.9 or Ministra 5.6.10 from either my own hosted source or directly from Ministra's servers.... Yeah that's right :)
 
 wget https://raw.githubusercontent.com/midesidotnet/ministra5610/main/install.sh
