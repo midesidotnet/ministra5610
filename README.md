@@ -1,2 +1,3 @@
-# ministra5610
-MINISTRA 5.6.10
+How to install MINISTRA 5.6.10 or MINISTRA 5.6.9
+
+
