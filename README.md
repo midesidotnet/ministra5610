@@ -10,7 +10,8 @@ The Script. The script will download and install Ministra 5.6.9 or Ministra 5.6.
 
 wget https://raw.githubusercontent.com/midesidotnet/ministra5610/main/install.sh
 
-Run the Script. 
+Run the Script under
+
 sudo chmod +X install.sh 
 
 sudo bash install.sh 
