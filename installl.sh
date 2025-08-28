@@ -1,12 +1,4 @@
 #!/usr/bin/env bash
-echo ""
-echo "#########################################################################"
-ministra_source=https://drive.google.com/file/d/1GUHd-xJUY4hC4JSqBrd2kiwskRzdiGj3/view?usp=drive_link; break;;
-done
-echo ""
-echo "#########################################################################"
-echo ""
-
 echo "Setting locales..."
 locale-gen en_US.UTF-8
 export LANG=en_US.UTF-8
@@ -138,3 +130,4 @@ git config --global --unset http.sslVerify
 sed -i "s/mysql -u root -p$rootpass mysql/mysql -u root -p mysql/g" /var/www/html/stalker_portal/deploy/build.xml
 echo ""
 echo "Done!"
+
